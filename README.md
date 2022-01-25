@@ -1,4 +1,2 @@
 # pacman-maxmin
-A try of making my homework.
-Euthimi come you have to make debugging here.
-Euthimi finally i think that you sleep a lot..so I did this work alone.
+Java program on Data Structures. A game on Pacman using optimization algorithms (Dijkstra, minimax, alpha-beta pruning).
